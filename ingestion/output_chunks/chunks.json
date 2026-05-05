@@ -1,0 +1,14 @@
+[
+  {
+    "chunk_id": "page1_chunk0",
+    "text": "Sample PDF for Personal AI Knowledge Assistant This is a sample document created for testing the data ingestion pipeline. It contains multiple paragraphs of text so that text extraction, cleaning, and chunking can be verified properly. Artificial Intelligence systems often rely on unstructured data such as PDFs, documents, and notes. A data ingestion pipeline converts this raw data into structured and machine-readable formats. This sample PDF is intended only for educational and testing purposes",
+    "source": "sample.pdf",
+    "page": 1
+  },
+  {
+    "chunk_id": "page1_chunk1",
+    "text": " and machine-readable formats. This sample PDF is intended only for educational and testing purposes. You may replace it later with your own notes or study material.",
+    "source": "sample.pdf",
+    "page": 1
+  }
+]
